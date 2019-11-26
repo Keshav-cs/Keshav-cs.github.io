@@ -1,7 +1,10 @@
 # Keshav-cs.github.io
 ======================
 
+Sorry for any inconvenience caused. My only portfolio site is [http://keshav-cs.github.io](http://keshav-cs.github.io)
 
+**_Free Advice:_**
+Do not register for any free domain. It's a "**TRAP**" :stuck_out_tongue_closed_eyes:
 
 
 ## How to get your own?
